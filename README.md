@@ -3,7 +3,7 @@ RomanNumbers
 
 RomanNumbers contains two solutions on how to calculate Roman numbers from Arabic numbers and a comparing benchmark.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/a3ptt999etgpfutv?svg=true)](https://ci.appveyor.com/project/SeppPenner/RomanNumbers)
+[![Build status](https://ci.appveyor.com/api/projects/status/ehs2puhqb2klegu1?svg=true)](https://ci.appveyor.com/project/SeppPenner/romannumbers)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/RomanNumbers.svg)](https://github.com/SeppPenner/RomanNumbers/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/RomanNumbers.svg)](https://github.com/SeppPenner/RomanNumbers/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/RomanNumbers.svg)](https://github.com/SeppPenner/RomanNumbers/stargazers)
