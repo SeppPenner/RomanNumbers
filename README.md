@@ -14,7 +14,7 @@ RomanNumbers contains two solutions on how to calculate Roman numbers from Arabi
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/th070795)
 
 ## Available for
-* Net 7.0
+* Net 8.0
 
 ## Net Core and Net Framework latest and LTS versions
 * https://dotnet.microsoft.com/download/dotnet
